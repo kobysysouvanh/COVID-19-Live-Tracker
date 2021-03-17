@@ -1,6 +1,6 @@
-# COVID-19 Live Tracker
-This is my first JS/React Project.
-You can open the website at https://covid-19-live-tracker-8a348.web.app
+# Live COVID-19 Tracker
+This is my first JS/React Project.  
+You can open the website at https://covid-19-live-tracker-8a348.web.app  
 Special thanks to Clever Programmer on YouTube for the tutorial.
 ## Features
 * Live Tracking
